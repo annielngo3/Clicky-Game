@@ -1,0 +1,14 @@
+.score-bar {
+    padding: 2px 0px;
+    color: black;
+    background-color: rgba(131, 221, 221, 0.9);
+    margin-bottom: 10px;
+}
+
+.score-bar > h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+   
+}
