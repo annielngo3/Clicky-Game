@@ -15,4 +15,4 @@ The Clicky Game is a React.js memory game. This application is broken into UI co
 ### Technologies Used
 JavaScript, React, Bootstrap, jQuery, HTML, CSS
 
-![The Clicky Game Screenshot]
+[clickyGame]
