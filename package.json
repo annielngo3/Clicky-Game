@@ -1,0 +1,21 @@
+{
+  "name": "clickygame",
+  "version": "1.0.0",
+  "description": "https://github.com/annielngo3/clickyGame",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annielngo3/clickyGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annielngo3/clickyGame/issues"
+  },
+  "homepage": "https://github.com/annielngo3/clickyGame#readme"
+}
